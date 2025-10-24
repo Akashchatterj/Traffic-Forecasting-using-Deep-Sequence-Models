@@ -259,7 +259,7 @@ If you find this work useful, please cite our paper:
 ```bibtex
 @inproceedings{chatterjee2025traffic,
   title={Traffic Forecasting using Deep Sequence Models with Vehicle Situation-aware Loss},
-  author={Chatterjee, Akash and Mahawar, Jayant and Paul, Angshuman},
+  author={Akash Chatterjee, Jayant Mahawar and Angshuman Paul},
   booktitle={CVIP 2025},
   year={2025},
   organization={Indian Institute of Technology Jodhpur}
@@ -284,24 +284,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Akash Chatterjee** - [GitHub](https://github.com/akashchatterjee) | [Email](mailto:akash@example.com)
-- **Jayant Mahawar** - [GitHub](https://github.com/jayantmahawar) | [Email](mailto:jayant@example.com)
-- **Angshuman Paul** - [GitHub](https://github.com/angshumanpaul) | [Email](mailto:angshuman@example.com)
+- **Akash Chatterjee** - [GitHub](https://github.com/Akashchatterj) | [Email](mailto:chatterjeeakash887@gmail.com)
+- **Jayant Mahawar** - [GitHub](https://github.com/mahawar2) | [Email](mailto:mahawar.2@iitj.ac.in)
 
 ---
 
 ## 📧 Contact
 
 For questions or collaboration opportunities, please contact:
-- Email: akash.chatterjee@iitj.ac.in
+- Email: m23air002@iitj.ac.in
 - Institution: Indian Institute of Technology Jodhpur
-
----
-
-## 🔄 Updates
-
-- **[2025-10]** Initial release
-- **[2025-10]** Code to be released upon completion of review process
 
 ---
 
